@@ -1,0 +1,75 @@
+ {
+    background-color: rgb(198, 240, 198);
+}
+
+h1 {
+    text-align: center;
+    color: darkblue;
+    background-color: crimson;
+    font-size: 64px;
+}
+
+.index-recipes {
+    text-align: center;
+    font-size: 36px;
+    list-style: none;
+}
+
+.pages-img-desc {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    text-align: left; 
+    background-color: rgb(230, 230, 250, 0.65);   
+}
+
+h5 {
+    text-align: right;
+    font-size: 32px;
+}
+
+.recipe-img {
+    height: 450px;
+    width: 600px;
+
+}
+
+.home-bot {
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.pages-steps-title {
+    font-size: 20px;
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+.pages-button {
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+a:link {text-decoration: none; color: darkblue; background-color: rgb(220, 20, 60, 0.65);}
+a:visited {text-decoration: none; color: darkblue; background-color:rgb(220, 20, 60, 0.65);}
+a:hover {text-decoration: none; color: darkblue;background-color: rgb(220, 20, 60, 0.65);}
+a:active {text-decoration: none; color: darkblue; background-color: rgb(220, 20, 60, 0.65);}
+
+html { 
+    background: url(https://media.istockphoto.com/photos/food-background-with-assortment-of-fresh-organic-fruits-and-picture-id1203599963?s=612x612) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  .steps {
+    background-color: rgb(230, 230, 250, 0.65);  
+  }
+  
