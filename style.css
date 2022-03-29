@@ -50,7 +50,7 @@ h3 {
 }
 
 .pages-button {
-    background-color: red;
+    background-color: rgb(220, 20, 60, 0.35);
     color: white;
     font-weight: bold;
     font-size: 36px;
@@ -67,9 +67,9 @@ html {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
 
   .steps {
     background-color: rgb(230, 230, 250, 0.65);  
   }
-  
